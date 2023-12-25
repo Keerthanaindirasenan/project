@@ -1,0 +1,350 @@
+[
+    {
+        "name": "Red suit",
+        "price": "1050",
+        "ratings":4.5,
+        "images":[{
+            "public_id":"Wmodel3_y6sqkp",
+            "url":"https://res.cloudinary.com/dtcqtaayg/image/upload/v1703324685/Assets/Wmodel3_y6sqkp.png"
+        }],
+        "category": "women",
+        "seller":"supplier",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews":[]
+
+    },
+    {
+        "name": "Suit with sweatshirt and pencil skirt",
+        "price": "2000",
+        "ratings":4.3,
+        "images": [{
+            "public_id": "Wmodel1_oxgwfj",
+            "url":"https://res.cloudinary.com/dtcqtaayg/image/upload/v1703324681/Assets/Wmodel1_oxgwfj.png"
+        }],
+        "category":"women",
+        "seller":"supplier",
+        "stock":60,
+        "numOfReviews": 40,
+        "reviews":[]
+    },
+    {
+        "name": " Gray Palazo jean pant and Suit",
+        "price": "5000",
+        "ratings":4.3,
+        "images": [{
+            "public_id": "Wmodel2_of5tmh",
+            "url":"https://res.cloudinary.com/dtcqtaayg/image/upload/v1703324680/Assets/Wmodel2_of5tmh.png"
+        }],
+        "category":"women",
+        "seller":"supplier",
+        "stock":70,
+        "numOfReviews": 40,
+        "reviews":[]
+
+    },
+    {
+        "name": " Suit and Black classy pant with blackHat",
+        "price": "5000",
+        "ratings":4.3,
+        "images": [{
+            "public_id": "Wmodel5_riupak",
+            "url":"https://res.cloudinary.com/dtcqtaayg/image/upload/v1703324680/Assets/Wmodel5_riupak.png"
+        }],
+        "category":"women",
+        "seller":"supplier",
+        "stock":70,
+        "numOfReviews": 40,
+        "reviews":[]
+
+    },
+    {
+        "name": " Sleveless Black Dress",
+        "price": "3000",
+        "ratings":4.3,
+        "images": [{
+            "public_id": "Wmodel6_tdruxk",
+            "url":"https://res.cloudinary.com/dtcqtaayg/image/upload/v1703324679/Assets/Wmodel6_tdruxk.png"
+        }],
+        "category":"women",
+        "seller":"supplier",
+        "stock":70,
+        "numOfReviews": 40,
+        "reviews":[]
+    },
+    {
+        "name": "Striped Shirt with Brown pant",
+        "price": "3000",
+        "ratings":4.5,
+        "images": [{
+            "public_id": "Mmodel1_dpd2ll",
+            "url":"https://res.cloudinary.com/dtcqtaayg/image/upload/v1703324678/Assets/Mmodel1_dpd2ll.png"
+        }],
+        "category":"men",
+        "seller":"supplier",
+        "stock":70,
+        "numOfReviews": 40,
+        "reviews":[]
+    },
+    {
+        "name": "Traditional saree",
+        "price": "3000",
+        "ratings":4.5,
+        "images": [{
+            "public_id": "Wmodel8_ijkfrc",
+            "url":"https://res.cloudinary.com/dtcqtaayg/image/upload/v1703324677/Assets/Wmodel8_ijkfrc.png"
+        }],
+        "category":"women",
+        "seller":"supplier",
+        "stock":70,
+        "numOfReviews": 40,
+        "reviews":[]
+
+    },
+    {
+        "name": "White Stylish Dress",
+        "price": "3000",
+        "ratings":4.5,
+        "images": [{
+            "public_id": "Wmodel11_f83ogu",
+            "url":"https://res.cloudinary.com/dtcqtaayg/image/upload/v1703324676/Assets/Wmodel11_f83ogu.png"
+        }],
+        "category":"women",
+        "seller":"supplier",
+        "stock":70,
+        "numOfReviews": 40,
+        "reviews":[]
+
+    },
+    {
+        
+        "name": "Purple Suit and Pants",
+        "price": "4000",
+        "ratings":4.5,
+        "images": [{
+            "public_id": "Wmodel9_g625ct",
+            "url":"https://res.cloudinary.com/dtcqtaayg/image/upload/v1703324676/Assets/Wmodel9_g625ct.png"
+        }],
+        "category":"women",
+        "seller":"supplier",
+        "stock":70,
+        "numOfReviews": 40,
+        "reviews":[]
+    },
+    {
+        "name": "Purple Suit and Pants",
+        "price": "4000",
+        "ratings":4.5,
+        "images": [{
+            "public_id": "Wmodel9_g625ct",
+            "url":"https://res.cloudinary.com/dtcqtaayg/image/upload/v1703324676/Assets/Wmodel9_g625ct.png"
+        }],
+        "category":"women",
+        "seller":"supplier",
+        "stock":70,
+        "numOfReviews": 40,
+        "reviews":[]
+    },
+    {
+        "name": "Twinning Besties elegant Red dress",
+        "price": "7000",
+        "ratings":4.5,
+        "images": [{
+            "public_id": "Wmodel10_f9qzml",
+            "url":"https://res.cloudinary.com/dtcqtaayg/image/upload/v1703324676/Assets/Wmodel10_f9qzml.png"
+        }],
+        "category":"women",
+        "seller":"supplier",
+        "stock":70,
+        "numOfReviews": 40,
+        "reviews":[]
+    },
+    {
+        "name": "Sports Tshirt and shorts",
+        "price": "1000",
+        "ratings":4.5,
+        "images": [{
+            "public_id": "Mmodel2_ozg7wy",
+            "url":"https://res.cloudinary.com/dtcqtaayg/image/upload/v1703324675/Assets/Mmodel2_ozg7wy.png"
+        }],
+        "category":"men",
+        "seller":"supplier",
+        "stock":70,
+        "numOfReviews": 40,
+        "reviews":[]
+    },
+    {
+        "name": "Traditional Sherwani",
+        "price": "4000",
+        "ratings":4.5,
+        "images": [{
+            "public_id":"Mmodel6_mhx25v",
+            "url":"https://res.cloudinary.com/dtcqtaayg/image/upload/v1703324673/Assets/Mmodel6_mhx25v.png"
+        }],
+        "category":"men",
+        "seller":"supplier",
+        "stock":70,
+        "numOfReviews": 40,
+        "reviews":[]
+    },
+    {
+        "name": "Bike Rider jacket",
+        "price": "4000",
+        "ratings":4.5,
+        "images": [{
+            "public_id":"Mmodel4_ncjv5p",
+            "url":"https://res.cloudinary.com/dtcqtaayg/image/upload/v1703324673/Assets/Mmodel4_ncjv5p.png"
+        }],
+        "category":"men",
+        "seller":"supplier",
+        "stock":70,
+        "numOfReviews": 40,
+        "reviews":[]
+
+    },
+    {
+        "name": "Over coat and Stylish shirt with checked pants",
+        "price": "4000",
+        "ratings":4.5,
+        "images": [{
+            "public_id":"Mmodel8_ehog8l",
+            "url":"https://res.cloudinary.com/dtcqtaayg/image/upload/v1703324671/Assets/Mmodel8_ehog8l.png"
+        }],
+        "category":"men",
+        "seller":"supplier",
+        "stock":70,
+        "numOfReviews": 40,
+        "reviews":[]
+
+    },
+    {
+        "name": "Pink Sweatshirt",
+        "price": "1500",
+        "ratings":4.5,
+        "images": [{
+            "public_id":"Kmodel4_f7b5as",
+            "url":"https://res.cloudinary.com/dtcqtaayg/image/upload/v1703324670/Assets/Kmodel4_f7b5as.png"
+        }],
+        "category":"kid",
+        "seller":"supplier",
+        "stock":70,
+        "numOfReviews": 40,
+        "reviews":[]
+
+    },
+    {
+        "name": "Tshirt and pant",
+        "price": "700",
+        "ratings":4.5,
+        "images": [{
+            "public_id":"Kmodel2_hq8tul",
+            "url":"https://res.cloudinary.com/dtcqtaayg/image/upload/v1703324669/Assets/Kmodel2_hq8tul.png"
+        }],
+        "category":"kid",
+        "seller":"supplier",
+        "stock":70,
+        "numOfReviews": 40,
+        "reviews":[]
+    },
+    {
+        "name": "Couple Dresses",
+        "price": "2300",
+        "ratings":4.5,
+        "images": [{
+            "public_id":"Kmodel3_lo4qre",
+            "url":"https://res.cloudinary.com/dtcqtaayg/image/upload/v1703324669/Assets/Kmodel3_lo4qre.png"
+        }],
+        "category":"kid",
+        "seller":"supplier",
+        "stock":70,
+        "numOfReviews": 40,
+        "reviews":[]
+    },
+    {
+        "name": "Leather pants and crop top",
+        "price": "2300",
+        "ratings":4.5,
+        "images": [{
+            "public_id": "Kmodel5_mt5ytc",
+            "url":"https://res.cloudinary.com/dtcqtaayg/image/upload/v1703324669/Assets/Kmodel5_mt5ytc.png"
+        }],
+        "category":"kid",
+        "seller":"supplier",
+        "stock":70,
+        "numOfReviews": 40,
+        "reviews":[]
+    },
+    {
+        "name": "Haloween dress",
+        "price": "4300",
+        "ratings":4.5,
+        "images": [{
+            "public_id": "Kmodel6_i7w0sv",
+            "url":"https://res.cloudinary.com/dtcqtaayg/image/upload/v1703324667/Assets/Kmodel6_i7w0sv.png"
+        }],
+        "category":"kid",
+        "seller":"supplier",
+        "stock":70,
+        "numOfReviews": 40,
+        "reviews":[]
+    },
+    {
+        "name": "White Netted top with baggy pants ",
+        "price": "4400",
+        "ratings":4.5,
+        "images": [{
+            "public_id": "Kmodel7_kiphr8",
+            "url": "https://res.cloudinary.com/dtcqtaayg/image/upload/v1703324667/Assets/Kmodel7_kiphr8.png"
+        }],
+        "category":"kid",
+        "seller":"supplier",
+        "stock":70,
+        "numOfReviews": 40,
+        "reviews":[]
+    },
+    {
+        "name": "Cute pink Floral Dress",
+        "price": "4400",
+        "ratings":4.5,
+        "images": [{
+            "public_id": "Kmodel8_lpv4hz",
+            "url": "https://res.cloudinary.com/dtcqtaayg/image/upload/v1703324666/Assets/Kmodel8_lpv4hz.png"
+        }],
+        "category":"kid",
+        "seller":"supplier",
+        "stock":70,
+        "numOfReviews": 40,
+        "reviews":[]
+    },
+    {
+        "name": "Casual Tshirt and tracks",
+        "price": "1400",
+        "ratings":4.5,
+        "images": [{
+            "public_id": "Kmodel12_lxuwxi",
+            "url":"https://res.cloudinary.com/dtcqtaayg/image/upload/v1703324664/Assets/Kmodel12_lxuwxi.png"
+        }],
+        "category":"kid",
+        "seller":"supplier",
+        "stock":70,
+        "numOfReviews": 40,
+        "reviews":[]
+
+    },
+    {
+        "name": "Christmas dress and hat for girls",
+        "price": "2000",
+        "ratings":4.5,
+        "images": [{
+            "public_id": "Kmodel11_zhknkq",
+            "url":"https://res.cloudinary.com/dtcqtaayg/image/upload/v1703324663/Assets/Kmodel11_zhknkq.png"
+        }],
+        "category":"kid",
+        "seller":"supplier",
+        "stock":70,
+        "numOfReviews": 40,
+        "reviews":[]
+    }
+
+
+]
